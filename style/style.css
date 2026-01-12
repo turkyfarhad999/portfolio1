@@ -171,4 +171,48 @@ nav .menu a{
     margin-bottom: 30px;
 
 }
+#resume{
+    padding: 130px;
+}
+.resume-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 113px auto 0;
+display: flex;
+gap: 24px;
+}
+.resume-container .section-title{
+    font-size: 30pxpx;
+    color: #474747;
+    margin-bottom: 30px;
+}
+
+.resume-card{
+    max-width: 511px;
+    margin-right: 47px;
+    
+}
+.card-title{
+    font-size: 25px;
+    gap: 10px;
+    margin-bottom: 10px;
+    color: #474747;
+    
+}
+.card-info{
+    font-size: 20px;
+    font-weight: 600px;
+    margin-bottom: 10px;
+    color: #757575;
+}
+.card-text{
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
+
+}
+hr{
+    margin: 30px 0;
+}
+
 
